@@ -1,6 +1,6 @@
 # Threshold Cryptography Service
 
-Back end for Threshold Crypgrography as a service. Following are the API specifications for the encryption and decryption modules.
+Back end for Threshold Cryptrography as a service. Following are the API specifications for the encryption and decryption modules.
 
 ```
 there are two endpoints:
@@ -13,7 +13,7 @@ input:
     "mail_list": ["example@gmail.com", "example@gmail.com", "example@gmail.com"]
 }
 output: OK
-send email containing the key pair according to threshold scheme
+send email containing the key pair according to the threshold scheme
 ```
 
 ```
@@ -35,7 +35,7 @@ value after decryption using threshold cryptography scheme
 
 # Setting up development environment
 
-1. Make a new `.env` files with the following content
+1. Make a new `.env` file with the following content
 
 ```
 email="<email id of bot>"
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 5. Run the `main.py` file
 
 ```
-python main.py
+python3 main.py
 ```
 
 6. Opening the dev link will give a short description of the API's that we provide
