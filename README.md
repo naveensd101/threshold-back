@@ -1,6 +1,6 @@
 # Threshold Cryptography Service
 
-Back end for Threshold Cryptrography as a service. Following are the API specifications for the encryption and decryption modules.
+Back end for Threshold Cryptography as a service. Following are the API specifications for the encryption and decryption modules.
 
 ```
 there are two endpoints:
