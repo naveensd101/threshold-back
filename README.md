@@ -27,6 +27,12 @@ output:
 value after decryption using threshold cryptography scheme
 ```
 
+# Diagramatic explanation of the scheme
+
+![encrytpion](img/Encrypt.svg)
+
+![decryption](img/Decrypt.svg)
+
 # Setting up development environment
 
 1. Make a new `.env` files with the following content
