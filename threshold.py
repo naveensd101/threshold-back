@@ -11,7 +11,7 @@ def threshold_enc(secret_int, num_of_keys, min_keys):
   """
   input: secret_int, num_of_keys, min_keys
   Generate a threshold encryption scheme
-  return a dictoinary of keys
+  return a dictionary of keys
   """
   poly = []
   poly.append(secret_int)
