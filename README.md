@@ -2,6 +2,8 @@
 
 Back end for Threshold Cryptography as a service. Following are the API specifications for the encryption and decryption modules.
 
+github repo url: [https://github.com/naveensd101/threshold-back](https://github.com/naveensd101/threshold-back)
+
 ```
 there are two endpoints:
 /encrypt [POST]
